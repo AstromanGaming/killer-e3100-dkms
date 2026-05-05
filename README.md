@@ -1,6 +1,6 @@
 # Killer E3100U DKMS
 
-This provides the Killer E3100U (Realtek R8156X) driver in DKMS way so that you can keep the latest driver even after the kernel upgrade.
+This provides the Killer E3100U (Realtek RTL8156/B) driver in DKMS way so that you can keep the latest driver even after the kernel upgrade.
 
 ## Compatibility
 
@@ -8,7 +8,7 @@ The e3100u driver supports the following this USB Ethernet chipset.
 
 Chipset          | Interface       | Performance
 :----------------|:---------------:|:----------------:
-Killer E3100U    | USB 3.0         | 2.5 GbE
+Killer E3100U    | USB 3.2         | 2.5 GbE
 
 ## Installation
 
