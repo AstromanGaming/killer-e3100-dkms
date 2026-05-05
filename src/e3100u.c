@@ -48,7 +48,7 @@
 			"following patents:\n" \
 			"\t\tUS6,570,884, US6,115,776, and US6,327,625.\n"
 
-#define E3100U_PHY_ID		32
+#define e3100u_PHY_ID		32
 
 #define PLA_IDR			0xc000
 #define PLA_RCR			0xc010
