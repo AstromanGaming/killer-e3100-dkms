@@ -840,6 +840,7 @@ enum e3100u_flags {
 
 /* Define these values to match your device */
 #define VENDOR_ID_KILLER		0x1a56
+#define VENDOR_ID_LENOVO		0x17ef
 
 #define MCU_TYPE_PLA			0x0100
 #define MCU_TYPE_USB			0x0000
