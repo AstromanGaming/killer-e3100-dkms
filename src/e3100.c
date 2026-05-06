@@ -32277,8 +32277,7 @@ static int rte3100_probe(struct usb_interface *intf,
 	tp->udev = udev;
 	tp->netdev = netdev;
 	tp->intf = intf;
-        tp->version = KILLER_VER_11; /* --- Mandatory enforcement of the KILLER_VER_15 variant --- */
-        dev_info(&tp->udev->dev, "Forced option: KILLER_VER_15\n");
+        tp->version = version;
 
 	tp->pipe_ctrl_in = usb_rcvctrlpipe(udev, 0);
 	tp->pipe_ctrl_out = usb_sndctrlpipe(udev, 0);
