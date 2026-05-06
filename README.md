@@ -12,7 +12,9 @@ The E3100/U driver support this USB Ethernet chipset.
 
 Chipset          | Interface       | Performance
 :----------------|:---------------:|:----------------:
-Killer E3100U    | USB 3.1         | 2.5 GbE
+Killer E3100U    | USB 3.1         | 2.5 GbE*
+
+_*It's experimental; in my tests with iperf3, it ranges from 1 Gbps to ≈2.5 Gbps._
 
 ## Installation
 
