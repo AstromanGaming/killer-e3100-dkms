@@ -10,11 +10,11 @@ This provides the Killer E3100/U (Rebranded Realtek RTL8156/B) driver in DKMS wa
 
 The E3100/U driver support this USB Ethernet chipset.
 
-Chipset          | Interface       | Performance
-:----------------|:---------------:|:----------------:
-Killer E3100U    | USB 3.1         | 2.5 GbE*
+Chipset          | Interface       | Estimated Performance |   Real Performance
+:----------------|:---------------:|:---------------------:|:---------------------:
+Killer E3100U    | USB 3.1         |      2.5 GbE          |       ~2.2-2.4 Gbit/s*
 
-_*Compared to the cdc_ncm driver_
+_*Tested with iperf3_
 
 ## Installation
 
