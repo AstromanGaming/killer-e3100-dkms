@@ -2,7 +2,7 @@
 
 # This is a Derived Project of https://github.com/awesometic/realtek-r8152-dkms
 
-## Intel Killer E3100/U DKMS
+## Intel/Rivet Killer E3100/U DKMS
 
 This provides the Killer E3100/U (Rebranded Realtek RTL8156/B) driver in DKMS way so that you can keep the latest driver even after the kernel upgrade.
 
