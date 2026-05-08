@@ -4,7 +4,7 @@ _(Under development)_
 
 ## Intel Killer E3100/U DKMS
 
-This provides the Killer E3100/U (rebranded Realtek RTL8156/B) driver in DKMS way so that you can keep the latest driver even after the kernel upgrade.
+This provides the Killer E3100/U (a rebranded Realtek RTL8156/B) driver in DKMS way so that you can keep the latest driver even after the kernel upgrade.
 
 ## Compatibility
 
