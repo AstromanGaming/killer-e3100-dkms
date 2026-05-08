@@ -4,7 +4,7 @@ _(Under development)_
 
 ## Intel Killer E3100/U DKMS
 
-This provides the Killer E3100/U (Rebranded Realtek RTL8156/B) driver in DKMS way so that you can keep the latest driver even after the kernel upgrade.
+This provides the Killer E3100/U (rebranded Realtek RTL8156/B) driver in DKMS way so that you can keep the latest driver even after the kernel upgrade.
 
 ## Compatibility
 
@@ -12,7 +12,7 @@ The E3100/U driver support this USB Ethernet chipset:
 
 Chipset          | Interface       |  Speed  | Estimated Performance |   Real Performance
 :----------------|:---------------:|:-------:|:---------------------:|:---------------------:
-Killer E3100U    | USB 3.1         | 2.5 GbE |    ~0.8-2.1 Gbit/s*   |    ~2.2-2.4 Gbit/s**
+Killer E3100U    | USB 3.1         | 2.5 GbE |    ~0.8-1.4 Gbit/s*   |    ~2.2-2.4 Gbit/s**
 
 _* If it were on the cdc_ncm driver_
 
