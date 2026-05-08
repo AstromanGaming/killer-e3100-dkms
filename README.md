@@ -16,7 +16,7 @@ Killer E3100U    | USB 3.1         | 2.5 GbE |    ~0.8-1.9 Gbit/s*   |    ~2.2-2
 
 _* If it were on the cdc_ncm driver_
 
-_** Tested with iperf3_
+_** Tested with iperf3 and the e3100 driver_
 
 ## Installation
 
